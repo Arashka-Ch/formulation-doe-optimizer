@@ -1,5 +1,5 @@
 # formulation-doe-optimizer
-A Machine Learning dashboard using Response Surface Methodology (RSM) to optimize chemical formulations and minimize R&amp;D material costs. 
+A Machine Learning dashboard using Response Surface Methodology (RSM) to optimize chemical formulations and minimize R&D material costs. 
 # 🧪 Commercial DOE Formulation Optimizer
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://formulation-doe-optimizer.streamlit.app/)
