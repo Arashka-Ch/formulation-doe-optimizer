@@ -2,7 +2,7 @@
 A Machine Learning dashboard using Response Surface Methodology (RSM) to optimize chemical formulations and minimize R&amp;D material costs. 
 # 🧪 Commercial DOE Formulation Optimizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://formulation-doe-optimizer.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 
 An interactive machine learning dashboard designed to bridge the gap between wet-lab chemistry and computational data science. This tool reverse-engineers optimal cosmetic and pharmaceutical ingredient ratios to hit target physical profiles (like viscosity) while simultaneously minimizing raw material costs.
